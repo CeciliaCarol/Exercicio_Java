@@ -178,7 +178,7 @@ public class RespostaListaExercicio {
 			else if (array[i] < menor)
 				menor = array[i];
 		}
-		System.out.print(maior +  menor);
+		System.out.print(maior + " " + menor);
 		
 	}
 
